@@ -2,11 +2,11 @@ package constuctor;
 
 public class DefConstEx1 
 {
-	int rlno,age;
+	int rlno,age; //declaration here..............
 	String name;
 	
-	public DefConstEx1()
-
+	public DefConstEx1(     )
+   //some line from  branch
 	{
 		rlno=1;
 		age=24;
@@ -20,10 +20,10 @@ public class DefConstEx1
 		System.out.println("name is"+name);
 	}
 	
-	public static void main(String[] args) 
+	public static void main(String[] args)  //this is a main method 
 	{
 		DefConstEx1  dd=new DefConstEx1();
-		dd.display();
+		dd.display(); //we calling a method
 
 	}
 
