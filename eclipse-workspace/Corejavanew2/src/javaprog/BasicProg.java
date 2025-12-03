@@ -19,6 +19,9 @@ public class BasicProg
 		    System.out.println("n2 is greater number..");
 		    
 		    	}
+			
+			System.out.println("therefore n2 i.e 25 is a greater number");
+			
 
 }
 }
