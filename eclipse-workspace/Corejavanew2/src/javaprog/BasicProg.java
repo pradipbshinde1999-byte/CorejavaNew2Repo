@@ -21,6 +21,7 @@ public class BasicProg
 		    	}
 			
 			System.out.println("therefore n2 i.e 25 is a greater number");
+			System.out.println(" n1 i.e 12 is a smaller no...");
 			
 
 }
